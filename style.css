@@ -6,7 +6,7 @@ body {
     align-items: center;
     text-align: center;
     background-color: skyblue;
-    font-family: cursive;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 .form {
@@ -41,7 +41,7 @@ body {
     width: 100%;
     padding: 10px;
     font-size: 20px;
-    font-family: cursive;
+    font-family: Arial, Helvetica, sans-serif;
     margin: 20px 0;
     border-radius: 5px;
     box-shadow: 0 2px 4px rgba(0, 0, 0, .3);
